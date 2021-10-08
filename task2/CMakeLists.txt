@@ -3,4 +3,4 @@ project(HOMETASK2)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(HOMETASK2 main.cpp)
+add_executable(HOMETASK2 ../main.cpp)
